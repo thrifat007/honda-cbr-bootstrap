@@ -28,5 +28,23 @@
     color: white;
   }
 
+  /* font awesome color  */
+
+.rating i {
+    color: #e76f51;
+  }
+  /* Footer  */
+  footer {
+    background-color: #264653;
+  }
+  footer ul li {
+    color: white;
+    padding-right: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  footer ul li:hover {
+    color: #e76f51;
+  }
  
   
