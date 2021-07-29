@@ -28,7 +28,7 @@
     color: white;
   }
 
-  /* font awesome color  */
+ /* font awesome color  */
 
 .rating i {
     color: #e76f51;
@@ -46,5 +46,12 @@
   footer ul li:hover {
     color: #e76f51;
   }
- 
-  
+  /* bike search section  */
+
+.search {
+    background-image: linear-gradient(#264653, #14303b);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
